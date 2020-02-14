@@ -1,0 +1,15 @@
+{
+  "name": "bowlbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abel Orta",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "screen": "^0.2.10"
+  }
+}
